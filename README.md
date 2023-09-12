@@ -1,9 +1,5 @@
-  Password generator for BIOS
+# Password generator for BIOS
 ================================
-[![github actions status][build-status]][tests]
-[![coverage here][coverage-status]][coverage]
-
-[![tested-browsers][sauce-matrix]][sauce-link]
 
 This project contains master password generators for various BIOS/UEFI firmware.
 
