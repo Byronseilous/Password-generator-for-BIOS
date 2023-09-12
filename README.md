@@ -6,9 +6,9 @@
 [![tested-browsers][sauce-matrix]][sauce-link]
 
 This project contains master password generators for various BIOS/UEFI firmware.
-For more info [read this][dogbert-post].
 
-Latest released version available [here][bios-pw] and latest testing version (*synchronized with master branch*) [here][beta-bios-pw].
+
+
 
 ## Supported BIOS types:
 
@@ -31,17 +31,3 @@ Latest released version available [here][bios-pw] and latest testing version (*s
 
 ## Thanks
 
-* [asyncritius](https://github.com/A-syncritus) &mdash; for major contribution to dell generator
-* [dogbert](https://github.com/dogbert) &mdash; researched most of generators present here
-* hpgl &mdash; for dell generator
-* [let-def](https://github.com/let-def) &mdash; for Acer Insyde 10 digit
-
-[build-status]: https://github.com/bacher09/pwgen-for-bios/actions/workflows/build-test.yml/badge.svg
-[tests]: https://github.com/bacher09/pwgen-for-bios/actions/workflows/build-test.yml
-[coverage-status]: https://coveralls.io/repos/github/bacher09/pwgen-for-bios/badge.svg?branch=master
-[coverage]: https://coveralls.io/github/bacher09/pwgen-for-bios?branch=master
-[sauce-matrix]: https://saucelabs.com/browser-matrix/bacher09.svg
-[sauce-link]: https://saucelabs.com/u/bacher09
-[dogbert-post]: http://dogber1.blogspot.com/2009/05/table-of-reverse-engineered-bios.html
-[bios-pw]: https://bios-pw.org/
-[beta-bios-pw]: https://beta.bios-pw.org/
